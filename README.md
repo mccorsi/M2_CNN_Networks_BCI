@@ -1,4 +1,4 @@
-<img width="1003" alt="image" src="https://github.com/mccorsi/M2_CNN_Networks_BCI/assets/67332336/b46fdf6f-021a-4baa-940a-270947f5b639"># Network science to understand brain-computer interfaces
+# Network science to understand brain-computer interfaces
 
 Materials associated to the the class given during the master's degree in [Computational Neurosciences and Neuroengineering](https://www.universite-paris-saclay.fr/en/education/master/life-sciences-and-health/m2-computational-neurosciences-and-neuroengineering) (closed-loop module) - Univ. of Paris-Saclay - December 2023
 
