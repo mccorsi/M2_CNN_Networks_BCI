@@ -1,4 +1,4 @@
-# Network science to understand brain-computer interfaces
+# Network science to understand Brain-Computer Interfaces
 
 Materials associated to the the class given during the master's degree in [Computational Neurosciences and Neuroengineering](https://www.universite-paris-saclay.fr/en/education/master/life-sciences-and-health/m2-computational-neurosciences-and-neuroengineering) (closed-loop module) - Univ. of Paris-Saclay - December 2023
 
