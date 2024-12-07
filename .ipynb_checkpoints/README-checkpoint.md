@@ -1,6 +1,6 @@
 # Network science to understand Brain-Computer Interfaces
 
-Materials associated to the the class given during the master's degree in [Computational Neurosciences and Neuroengineering](https://www.universite-paris-saclay.fr/en/education/master/life-sciences-and-health/m2-computational-neurosciences-and-neuroengineering) (closed-loop module) - Univ. of Paris-Saclay - December 2023.
+Materials associated to the the class given during the master's degree in [Computational Neurosciences and Neuroengineering](https://www.universite-paris-saclay.fr/en/education/master/life-sciences-and-health/m2-computational-neurosciences-and-neuroengineering) (closed-loop module) - Univ. of Paris-Saclay - December 2024.
 
 To install the packages used in the different notebooks, please do:
 
@@ -29,6 +29,7 @@ To install the packages used in the different notebooks, please do:
 - [OpenViBE](http://openvibe.inria.fr/) - Inria software to perform online experiments
 - [MOABB](https://github.com/NeuroTechX/moabb) - Python package to work with open datasets in order to compare classification pipelines and their replicability
 - [scikit-learn](https://scikit-learn.org/stable/) - Python package to build classification pipelines
+- [HappyFeat](https://happyfeat.readthedocs.io/en/latest/) - Software assistant for extracting and selecting classification features for BCI
 
 ### Groups and events
 - [BCI society](http://bcisociety.org/) - international society dedicated to BCI research
